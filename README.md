@@ -1,4 +1,4 @@
-# Laravel 11 顯示網址的回應
+# Laravel 12 顯示網址的回應
 
 引入 spatie 的 visit 套件來擴增顯示網址的回應，預設情況下，輸出將用顏色顯示。回應後會顯示回應狀態碼和回應時間。
 
@@ -24,5 +24,5 @@ $ visit {網址}
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/v8PjAO7.png)
+![](https://i.imgur.com/MvFCM7M.png)
 > 避免顯示回應，只顯示回應結果區塊
